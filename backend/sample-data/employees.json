@@ -1,0 +1,5 @@
+[
+  {"employeeId":"NV001","fullName":"Nguyễn Văn An","gender":"Nam","dateOfBirth":"1995-03-15","department":"Phòng Kỹ thuật","position":"Lập trình viên","email":"an.nguyen@example.com","phone":"0901234567","hireDate":"2020-06-01","status":"Đang làm việc"},
+  {"employeeId":"NV002","fullName":"Trần Thị Bình","gender":"Nữ","dateOfBirth":"1992-11-20","department":"Phòng Nhân sự","position":"Chuyên viên nhân sự","email":"binh.tran@example.com","phone":"0912345678","hireDate":"2019-02-10","status":"Đang làm việc"},
+  {"employeeId":"NV003","fullName":"Lê Hoàng Cường","gender":"Nam","dateOfBirth":"1988-07-05","department":"Phòng Kế toán","position":"Kế toán trưởng","email":"cuong.le@example.com","phone":"0923456789","hireDate":"2015-09-01","status":"Nghỉ phép"}
+]
