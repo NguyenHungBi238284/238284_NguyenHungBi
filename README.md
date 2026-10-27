@@ -41,4 +41,4 @@ npm run dev            # chạy tại http://localhost:3000
 - Link Docker Hub Frontend: https://hub.docker.com/r/nguyenhungbi238284/238284-frontend
 - Link Render App: https://web-238284.onrender.com
 - Link Render API: https://api-238284.onrender.com
-- Link MongoDB Atlas: (cập nhật sau)
+- Link MongoDB Atlas: https://cloud.mongodb.com/v2/6adf9481babbd0a8a7f92268#/explorer/6ae048670d67cbdfe48ea7ff/238284_NguyenHungBi/employees/find
