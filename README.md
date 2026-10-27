@@ -17,7 +17,23 @@ Hệ thống quản lý nhân sự cho phép xem danh sách, thêm mới, tìm k
 - Triển khai: Render
 
 ## Hướng dẫn chạy ở môi trường phát triển
-(Sẽ cập nhật sau khi hoàn thành Backend và Frontend)
+Yêu cầu: Node.js 18 trở lên và một database trên MongoDB Atlas.
+
+**Backend**
+```bash
+cd backend
+cp .env.example .env   # điền MONGODB_URI, PORT, CLIENT_URL
+npm install
+npm run dev            # chạy tại http://localhost:5000
+```
+
+**Frontend**
+```bash
+cd frontend
+cp .env.example .env   # VITE_API_URL=http://localhost:5000
+npm install
+npm run dev            # chạy tại http://localhost:3000
+```
 
 ## Các đường link
 - Link GitHub repository: https://github.com/NguyenHungBi238284/238284_NguyenHungBi
