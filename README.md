@@ -38,7 +38,7 @@ npm run dev            # chạy tại http://localhost:3000
 ## Các đường link
 - Link GitHub repository: https://github.com/NguyenHungBi238284/238284_NguyenHungBi
 - Link Docker Hub Backend: https://hub.docker.com/r/nguyenhungbi238284/238284-backend
-- Link Docker Hub Frontend: (cập nhật sau)
+- Link Docker Hub Frontend: https://hub.docker.com/r/nguyenhungbi238284/238284-frontend
 - Link Render App: (cập nhật sau)
 - Link Render API: (cập nhật sau)
 - Link MongoDB Atlas: (cập nhật sau)
