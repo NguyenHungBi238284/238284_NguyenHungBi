@@ -1,0 +1,16 @@
+# Thư viện
+node_modules/
+
+# Biến môi trường và bí mật (KHÔNG commit)
+.env
+.env.*
+!.env.example
+
+# Build và log
+dist/
+build/
+*.log
+
+# Hệ điều hành / công cụ
+.DS_Store
+Thumbs.db
