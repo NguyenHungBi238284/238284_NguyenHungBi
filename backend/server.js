@@ -20,6 +20,13 @@ const allowed = (process.env.CLIENT_URL || '')
 app.use(cors({ origin: allowed.length ? allowed : true }));
 app.use(express.json());
 
+app.get('/', (req, res) => {
+  res.json({
+    message: 'API quản lý nhân sự - 238284_NguyenHungBi',
+    endpoints: ['/health', '/api/employees'],
+  });
+});
+
 app.get('/health', (req, res) => {
   const states = ['disconnected', 'connected', 'connecting', 'disconnecting'];
   res.json({
